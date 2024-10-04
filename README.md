@@ -52,7 +52,3 @@ To run the game locally:
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-By adding this README, you’ll provide users with a clear understanding of the project, how to use it, and the technologies involved.
